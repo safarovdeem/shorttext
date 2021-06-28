@@ -1,0 +1,19 @@
+{
+  "name": "shorttext",
+  "version": "1.0.0",
+  "description": "this packet makes text short",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "short",
+    "text"
+  ],
+  "author": "Dmitry Safarov",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/safarovdeem/shorttext"
+  }
+}
