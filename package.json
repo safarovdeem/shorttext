@@ -1,7 +1,7 @@
 {
   "name": "shorttext",
-  "version": "1.0.0",
-  "description": "this packet makes text short",
+  "version": "0.0.1",
+  "description": "this packet makes text short based on words limit",
   "main": "index.js",
   "scripts": {
     "test": "node index.js"
